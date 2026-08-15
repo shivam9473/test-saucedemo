@@ -1,0 +1,29 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Test output
+**/allure-results/
+**/screenshots/
+**/surefire-reports/
+
+# Local overrides
+**/config.local.properties
+.env
+
+# OS / editor noise
+*.swp
+*~
+
+# IDE assistants (do not commit)
+.cursor/
+AGENTS.md

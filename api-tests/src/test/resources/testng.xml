@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ReqRes API Regression" parallel="false" verbose="1">
+  <test name="User endpoints">
+    <packages>
+      <package name="com.qa.api.tests"/>
+    </packages>
+  </test>
+</suite>
