@@ -75,13 +75,4 @@ sdet-automation-portfolio/
 └── .github/workflows/ CI pipeline
 ```
 
-## Resume talking points
 
-- 22 manual test cases with requirement traceability
-- 9 automated UI scenarios + 4 API scenarios
-- Page Object Model, explicit waits, data-driven login tests
-- CI pipeline with parallel UI/API jobs and failure screenshots
-
-## Author
-
-Portfolio project for SDET / QA Automation roles. Update author name and GitHub URL before sharing.
